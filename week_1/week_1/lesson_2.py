@@ -1,0 +1,7 @@
+print ('my name is elsie wanjiku')
+print ('i am 18 years old')
+print('i live in Thika')
+print('i love reading novels')
+print('--------------------')
+print('*****************')
+print('#################')
