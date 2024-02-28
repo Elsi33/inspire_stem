@@ -1,6 +1,7 @@
 # data types in python
 # date: 2/21/2024
-# name: elsie
+# name : elsie wanjiku
+
 
 # integers are positive or negative whole numbers
 x = 10

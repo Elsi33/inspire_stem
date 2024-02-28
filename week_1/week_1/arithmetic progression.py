@@ -1,5 +1,5 @@
 # This is a program to show how to operate arithmetic progression
-# date 20/02/2024
+# date : 20/02/2024
 # name: elsie wanjiku
 
 a = float(input("enter the coefficient of the first term :"))

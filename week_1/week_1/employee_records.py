@@ -4,14 +4,14 @@
 
 name = input("enter name of employee :")
 age = input("enter age of employee :")
-salary = int(input("enter salary of employee :"))
-bonus = int(input("enter bonus of employee :"))
+salary = float(input("enter salary of employee :"))
+bonus = float(input("enter bonus of employee :"))
 
-inc = 130/100
-new_salary = (salary * inc)
+
+new_salary = (salary + bonus)
 print("the new salary is ",new_salary)
 
-dec = 5000
+dec = 200
 new_bonus = (bonus - dec)
 print("the new bonus is ",new_bonus)
 

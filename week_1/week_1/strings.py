@@ -51,3 +51,26 @@ age =30
 height = 1.6
 
 print("I am {0} years old and {1} meters tall " .format(age,height))
+
+activity = "dancing"
+print("My hobby is %s" %(activity))
+   
+
+height = 1.2333355
+print("My height is  %5.3f"%(height))
+
+age = 32
+print("My age is  %d"%(age))
+
+
+
+name = "Elsie Wanjiku"
+print(len(name))
+
+print(f"My full name is {name}")
+
+
+course = "Electrical"
+school = "Engineering"
+
+print("I am studying{course} in the school of{school}" ,format course = )

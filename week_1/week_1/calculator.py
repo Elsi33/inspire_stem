@@ -1,5 +1,5 @@
 # program to get user input
-# date 20/02/2024
+# date : 20/02/2024
 # name : Elsie Wanjiku
 
 

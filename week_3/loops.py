@@ -13,7 +13,10 @@ for number in range(0,10):
 # squares of the number
     
 for x in range(0,11):
-    print(x**2) # squares
-    print("\t")
+ print (str(x**2) + "\t" ,end=" ") # square
 
-    print (str(x**2) + "\t" ,end=" ") # square
+
+for number in range(0,6):
+    print("\t")
+    print(" Elsie Wanjiku ")
+    

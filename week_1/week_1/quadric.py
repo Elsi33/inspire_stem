@@ -2,9 +2,9 @@
 # date : 20/2/2024
 # name : Elsie Wanjiku
 import math
-a = float(input("enter the coeffcient of first term : ")
-b = float(input("enter coefficient of second term : ")
-c = float(input("enter constant : ")
+a = float(input("enter the coeffcient of first term : "))
+b = float(input("enter coefficient of second term : "))
+c = float(input("enter constant : "))
 
 
 d = (b**2) - 4 * a * c
