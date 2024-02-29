@@ -73,4 +73,4 @@ print(f"My full name is {name}")
 course = "Electrical"
 school = "Engineering"
 
-print("I am studying{course} in the school of{school}" ,format course = )
+print("I am studying {0} in the school of {1}" .format (course,school)) 
