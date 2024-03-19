@@ -1,0 +1,29 @@
+section{
+    background-color: aqua;
+    color:blueviolet
+
+
+}
+img{
+    width:7cm;
+    height:3cm;
+}
+
+.ball{
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}   
+#bouncing{
+    position:absolute;
+} 
+
+body{
+
+    margin: 0;
+    padding: 0;
+    height: 100vh
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
